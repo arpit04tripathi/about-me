@@ -13,6 +13,8 @@ Practicing self-discipline has always been helpful in setting goals and consiste
 
 ![java8.png](https://www.staticreference.com/wp-content/uploads/2019/06/Java-8.png)
 
+![java8.png](https://www.staticreference.com/wp-content/uploads/2019/06/Java-8.png =100x20)
+
 # Work Experience
 
 emoji-whitelist:
