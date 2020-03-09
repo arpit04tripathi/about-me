@@ -13,6 +13,13 @@ Practicing self-discipline has always been helpful in setting goals and consiste
 
 # Work Experience
 
+emoji-whitelist:
+  - bowtie
+  - blush
+  
+emoji-blacklist:
+  - smile
+
 # Educational Qualification
 
 # Contact Details
