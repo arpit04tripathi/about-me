@@ -7,9 +7,9 @@ Practicing self-discipline has always been helpful in setting goals and consiste
 
 # SKill Set
 
-- :heavy_check_mark: java8
-- :heavy_check_mark: springboot
-- :heavy_check_mark: aws
+:heavy_check_mark:  java8
+:heavy_check_mark:  springboot
+:heavy_check_mark:  aws
 
 # Work Experience
 
