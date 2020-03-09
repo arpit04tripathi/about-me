@@ -3,3 +3,6 @@ title: Arpit Tripathi
 description: Software Engineer
 show_downloads: false
 github: "false"
+
+plugins:
+  - jemoji
