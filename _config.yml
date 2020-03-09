@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
-# github: "false"
-# show_downloads: "false"
-title: Arpit Tripathi Portfolio
+title: Arpit Tripathi
+description: Software Engineer
+show_downloads: false
+github: "false"
