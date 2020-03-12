@@ -64,6 +64,13 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
+# Educational Qualification
+|||||||
+|---|---|---|---|---|
+|Bachelor’s Degree |SGSITS (Electronics & Telecommunication)| Indore, MP (India)| 2015| 7.98 (CGPA)|
+|Higher Secondary| Kendriya Vidyalaya No.1| Bhopal, MP (India)| 2010| 81.4%|
+|High School| Kendriya Vidyalaya No.1| Bhopal, MP (India)| 2008| 83.2%|
+
 ||||
 |---|---|---|
 |[Download Resume/CV](./docs/CV-Arpit Tripathi-4.5years.pdf)|
