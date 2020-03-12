@@ -63,7 +63,7 @@ and cross-functional teams.
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-|Bachelor’s Degree |SGSITS (Electronics & Telecommunication)| Indore, MP (India)| 2015| 7.98 (CGPA)|
+|Bachelor’s Degree |SGSITS (Electronics & Telecommunication)| Indore, MP (India)| 2011-2015| 7.98 (CGPA)|
 |Higher Secondary| Kendriya Vidyalaya No.1| Bhopal, MP (India)| 2010| 81.4%|
 |High School| Kendriya Vidyalaya No.1| Bhopal, MP (India)| 2008| 83.2%|
 
