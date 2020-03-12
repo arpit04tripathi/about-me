@@ -34,7 +34,7 @@ and cross-functional teams.
 - Collaborating with Geographically dispersed team members having different days as workweek.
 
 ## TIAA GBS
-### Analyst (Software Developer) (May 2018 - Sept 2019)
+**Analyst (Software Developer) (May 2018 - Sept 2019)**
 
 ### Project : IA (Immediate Annuities)
 - Developing Microservices based on Event Driven Architecture using Apache Kafka.
@@ -43,7 +43,7 @@ and cross-functional teams.
 - Collaborated with teams and individuals throughout the firm to accomplish common goals of Agile Release train (SAFe)
 
 ## Cognizant Technology Solutions
-### Programmer Analyst (Aug 2015 - May 2018)
+**Programmer Analyst (Aug 2015 - May 2018)**
 
 ### Project : ACARS (Aircraft Communication Addressing and Reporting System)
 - Partnering with supporting tech leads to develop realistic and achievable project estimates.
@@ -68,7 +68,7 @@ and cross-functional teams.
 |High School| Kendriya Vidyalaya No.1| Bhopal, MP (India)| 2008| 83.2%|
 
 # Contact Details
-- email - arpit04tripathi@gmail.com |
+- email - arpit04tripathi@gmail.com
 - contact - +91-9146714272 
 - linkedin - https://www.linkedin.com/in/arpit04tripathi/ 
 - hackerrank - hackerrank.com/arpit04tripathi
