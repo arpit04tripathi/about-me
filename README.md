@@ -8,12 +8,6 @@ having CI/CD, Gated Deployment with Quality Check stages (SIT and UAT) in matrix
 - Ability to own multiple streams of work and to organize self to deliver them in a timely fashion while working in self-organizing
 and cross-functional teams.
 
-A professional Software Developer having more than 4 years of experience in IT World as a Java Backend/Full-Stack Developer while learning on the job with Agile methodologies and clean code approach.
-
-Work experience contributing to developing web applications (REST APIs) in Java8 for microservice architecture (SOA) using frameworks and tools such as SpringBoot, Angular, AWS, Auth0, Kafka, Hibernate, Mockito, Junit, Jira etc.
-
-Practicing self-discipline has always been helpful in setting goals and consistently moving towards them at individual level. Yet the collective coordinated effort of the team has made it possible to achieve these goals in a timely manner.
-
 
 # SKill Set
 
@@ -26,14 +20,10 @@ Practicing self-discipline has always been helpful in setting goals and consiste
 |Database | SQL (MySQL, DB2), NoSQL (DynamoDB, Cassandra)|
 |Additional Tools | Auth0, Swagger, Open-API, JIRA, Eclipse (STS)|
 
-:heavy_check_mark:  java8
-:heavy_check_mark:  springboot
-:heavy_check_mark:  aws
-
 # Work Experience
 
 ## Siemens Industry Software Limited (SISW)
-### Software Engineer (Pune, India) (Sept 2019 – Present)
+**Software Engineer (Pune, India) (Sept 2019 – Present)**
 
 ### Project : EMN (Electronics Manufacturing Network)
 - Actively participating in planning and brainstorming sessions for B2B Solution.
