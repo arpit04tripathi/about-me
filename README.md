@@ -67,3 +67,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 ||||
 |---|---|---|
 |[Download Resume/CV](./docs/CV-Arpit Tripathi-4.5years.pdf)|
+
+[![download-cv-368x72.png](./images/download-cv-368x72.png)](./docs/CV-Arpit Tripathi-4.5years.pdf)
