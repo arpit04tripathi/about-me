@@ -75,6 +75,7 @@ and cross-functional teams.
 - HackerRank - [https://www.hackerrank.com/arpit04tripathi](https://www.hackerrank.com/arpit04tripathi)
 - HackerEarth - [http://www.hackerearth.com/@arpit04tripathi](http://www.hackerearth.com/@arpit04tripathi)
 
+
 ---
 
 [![download-cv-368x72.png](./images/download-cv-368x72.png)](./docs/CV-Arpit Tripathi-4.5years.pdf)
