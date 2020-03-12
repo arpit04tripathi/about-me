@@ -70,7 +70,7 @@ and cross-functional teams.
 # Contact Details
 - email - arpit04tripathi@gmail.com
 - contact - +91-9146714272
-- linkedin - [https://www.linkedin.com/in/arpit04tripathi/](https://www.linkedin.com/in/arpit04tripathi/)
+- linkedin - [https://www.linkedin.com/in/arpit04tripathi/](https://www.linkedin.com/in/arpit04tripathi)
 - hackerrank - [https://www.hackerrank.com/arpit04tripathi](https://www.hackerrank.com/arpit04tripathi)
 
 ---
