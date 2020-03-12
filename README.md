@@ -1,68 +1,73 @@
 # Profile Summary
+
+- A professional Software Developer with 4 and a half years of experience as a Java Backend/Full Stack Developer.
+- Software Development using Industry Wide Best Practices like Test Driven Development (TDD), SOLID principles, Object
+Oriented Design (OOD), Design Patterns, Agile Development Methodologies, Clean Code approach, Scrum etc.
+- Experience with building and delivering code for multi-branched, multi-module web application to production environment
+having CI/CD, Gated Deployment with Quality Check stages (SIT and UAT) in matrixed organizations.
+- Ability to own multiple streams of work and to organize self to deliver them in a timely fashion while working in self-organizing
+and cross-functional teams.
+
 A professional Software Developer having more than 4 years of experience in IT World as a Java Backend/Full-Stack Developer while learning on the job with Agile methodologies and clean code approach.
 
 Work experience contributing to developing web applications (REST APIs) in Java8 for microservice architecture (SOA) using frameworks and tools such as SpringBoot, Angular, AWS, Auth0, Kafka, Hibernate, Mockito, Junit, Jira etc.
 
 Practicing self-discipline has always been helpful in setting goals and consistently moving towards them at individual level. Yet the collective coordinated effort of the team has made it possible to achieve these goals in a timely manner.
 
+
 # SKill Set
+
+|||
+|---|---|
+|Programming and Frameworks | Java 8, Spring Boot, Spring Core, Spring MVC, Angular 8, Typescript, Hibernate|
+|Unit Testing | JUnit, Mockito, Cucumber|
+|Build Tools and Repository | Gradle, Maven, GitLab, GitHub, Tortoise SVN, Jenkins|
+|Cloud Tech | Amazon Web Services (AWS), Micro Service, Apache Kafka, REST API|
+|Database | SQL (MySQL, DB2), NoSQL (DynamoDB, Cassandra)|
+|Additional Tools | Auth0, Swagger, Open-API, JIRA, Eclipse (STS)|
 
 :heavy_check_mark:  java8
 :heavy_check_mark:  springboot
 :heavy_check_mark:  aws
 
-![java8.png](https://www.staticreference.com/wp-content/uploads/2019/06/Java-8.png)
-
-![java8.png](https://www.staticreference.com/wp-content/uploads/2019/06/Java-8.png =100x20)
-
 # Work Experience
 
-emoji-whitelist:
-  - bowtie
-  - blush
-  
-emoji-blacklist:
-  - smile
+## Siemens Industry Software Limited (SISW)
+### Software Engineer (Pune, India) (Sept 2019 – Present)
 
-# Educational Qualification
+### Project : EMN (Electronics Manufacturing Network)
+- Actively participating in planning and brainstorming sessions for B2B Solution.
+- Partnered with Tech Lead to develop POC (Proof of Concept) with Auth0 and Open API.
+- Developing reusable Microservices using API first approach, AWS, Spring Boot and Auth0.
+- Writing Unit and Integration Tests for TDD using frameworks like Mockito and Cucumber.
+- Actively participate in Scrum Meetings to track progress and mitigate impediments on daily basis.
+- Collaborating with Geographically dispersed team members having different days as workweek.
 
-# Contact Details
+## TIAA GBS
+### Analyst (Software Developer) (May 2018 - Sept 2019)
 
-## Welcome to GitHub Pages
+### Project : IA (Immediate Annuities)
+- Developing Microservices based on Event Driven Architecture using Apache Kafka.
+- Understanding and estimating the required efforts with organizational quality standards during Scale Agile Ceremonies.
+- Worked on aggregator microservice communicating with downstream systems critical for the functionality.
+- Collaborated with teams and individuals throughout the firm to accomplish common goals of Agile Release train (SAFe)
 
-[Markdown Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+## Cognizant Technology Solutions
+### Programmer Analyst (Aug 2015 - May 2018)
 
-You can use the [editor on GitHub](https://github.com/arpit04tripathi/about-me/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Project : ACARS (Aircraft Communication Addressing and Reporting System)
+- Partnering with supporting tech leads to develop realistic and achievable project estimates.
+- Developing POC and business specific Microservices based on documents such as Design Document, BRD, Use-Case etc.
+- Working with business partners to ensure efforts are focused in the right way to satisfy business needs for the long term.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Project : Warehouse Management System
+- Understanding Business Requirements and Designing new modules/functionality to meet those needs.
+- Performing Impact Analysis and rendering change requests along with estimating the required efforts.
+- Provided developer support for Production issues of modules owned.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arpit04tripathi/about-me/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Recognitions in Organization
+- Rain Maker (2017) - for achieving excellent results.
+- Diamond in the Rough (2016) – for contribution, competency and enthusiastic efforts.
 
 # Educational Qualification
 
@@ -72,4 +77,14 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 |Higher Secondary| Kendriya Vidyalaya No.1| Bhopal, MP (India)| 2010| 81.4%|
 |High School| Kendriya Vidyalaya No.1| Bhopal, MP (India)| 2008| 83.2%|
 
+# Contact Details
+- email - arpit04tripathi@gmail.com |
+- contact - +91-9146714272 
+- linkedin - https://www.linkedin.com/in/arpit04tripathi/ 
+- hackerrank - hackerrank.com/arpit04tripathi
+
+---
+
 [![download-cv-368x72.png](./images/download-cv-368x72.png)](./docs/CV-Arpit Tripathi-4.5years.pdf)
+
+---
