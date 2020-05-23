@@ -80,4 +80,5 @@ and cross-functional teams.
 
 [![download-cv-368x72.png](./images/download-cv-368x72.png)](./docs/CV-Arpit Tripathi-4.5years.pdf)
 
+[Click me](http://www.google.com){: .btn}
 ---
