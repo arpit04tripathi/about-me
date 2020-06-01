@@ -1,3 +1,7 @@
+---
+title: Arpit Tripathi | Profile
+---
+
 # Profile Summary
 
 - A professional Software Developer with 4 and a half years of experience as a Java Backend/Full Stack Developer.
