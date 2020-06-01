@@ -1,6 +1,4 @@
----
-title: Arpit Tripathi | Profile
----
+
 
 # Profile Summary
 
